@@ -1,0 +1,4 @@
+* TreeSet implementeaza interfata SortedSet, deci valorile duplicate nu vor fi salvate.
+* Elementele sint stocate in mod sortat si ascendent.
+* TreeSet nu memoreaza ordinea inserarii elementelor, dar elementele sint sortate dupa keys.
+* Pentru ca sa poate fie posibila comparatia TreeSet nu permite inserarea obiectelor heterogene (de diferite tipuri), ci doar omogene (de acelasi tip).
